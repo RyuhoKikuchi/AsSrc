@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "webpack --display-modules && osascript test.bundle.js"
+  },
+  "dependencies": {
+    "tape": "^4.6.3",
+    "webpack": "^5.73.0"
+  }
+}
